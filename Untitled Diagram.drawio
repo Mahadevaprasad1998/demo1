@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oj958DxtZ-gsKBMir-k6-24" value="VM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="oj958DxtZ-gsKBMir-k6-24" value="Azure VM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="414" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oj958DxtZ-gsKBMir-k6-25" value="Workato System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
